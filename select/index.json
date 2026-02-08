@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Catch the Moment",
+  "base_artist": "LiSA",
+  "createdAt": "2026-02-08T09:48:51.285821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Catch the Moment",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/01_Catch_the_Moment_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Catch the Moment",
+      "artist": "Seba",
+      "has_synced": false,
+      "path": "select/02_Catch_the_Moment_Seba.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Catch the Moment",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_Catch_the_Moment_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Catch the Moment (Chinese Version)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/04_Catch_the_Moment_(Chinese_Version)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Catch the Moment - From THE FIRST TAKE",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_Catch_the_Moment_-_From_THE_FIRST_TAKE_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Catch The Moment (From \"Sword Art Online: Ordinal Scale\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_Catch_The_Moment_(From__Sword_Art_Online__Ordinal_Scale_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Catch The Moment (From \"Sword Art Online: Ordinal Scale\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/07_Catch_The_Moment_(From__Sword_Art_Online__Ordinal_Scale_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Catch the Moment (Sword Art Online: Ordinal Scale)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/08_Catch_the_Moment_(Sword_Art_Online__Ordinal_Scale)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Catch the Moment (from “Sword Art Online: Ordinal Scale”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/09_Catch_the_Moment_(from_“Sword_Art_Online__Ordinal_Scale”)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Catch the Moment",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/10_Catch_the_Moment_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Catch the Moment",
+      "artist": "LiSa",
+      "has_synced": true,
+      "path": "select/11_Catch_the_Moment_LiSa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Catch the Moment",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/12_Catch_the_Moment_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Catch the Moment",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/13_Catch_the_Moment_AmaLee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Catch the Moment",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Catch_the_Moment_LiSA.txt"
+    }
+  ]
+}
